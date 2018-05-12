@@ -1,0 +1,31 @@
+_repo: The-Weans-at-Rowallan_31362
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, A. Guy
+    gutenberg_agent_id: '35177'
+    url: http://www.gutenberg.org/2009/agents/35177
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzpatrick, Kathleen
+    gutenberg_agent_id: '35176'
+    url: http://www.gutenberg.org/2009/agents/35176
+description: ''
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+title: The Weans at Rowallan
+url: http://www.gutenberg.org/ebooks/31362
